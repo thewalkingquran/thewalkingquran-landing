@@ -147,9 +147,13 @@ a {
 }
 
 .subline {
-  font-weight: 600;
-  color: var(--dark);
-  margin-bottom: 8px;
+    font-weight: 800;
+    color: var(--dark);
+    margin-bottom: 8px;
+    font-size: 32px;
+    text-decoration: underline;
+    text-decoration-color: #a2c95c;
+    text-decoration-thickness: 5px;
 }
 
 .hero-bullets {
