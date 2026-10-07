@@ -1,0 +1,1 @@
+const http=require('http');const port=process.env.PORT||3000;http.createServer((req,res)=>{res.writeHead(200,{'content-type':'text/html; charset=utf-8'});res.end('<h1>Hosting Advisor Node test PASS</h1>')}).listen(port,'0.0.0.0',()=>console.log('node test on '+port));
