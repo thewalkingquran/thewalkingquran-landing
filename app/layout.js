@@ -1,0 +1,1 @@
+export const metadata={title:'HA Next Test'};export default function RootLayout({children}){return <html><body>{children}</body></html>}
