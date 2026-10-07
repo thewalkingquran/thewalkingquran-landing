@@ -1,0 +1,8 @@
+{
+  "name": "ha-test-broken-start",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node missing-server.js"
+  }
+}
