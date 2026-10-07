@@ -1,0 +1,1 @@
+import{createApp}from'vue';createApp({template:'<h1>Hosting Advisor Vue Vite test PASS</h1>'}).mount('#app');
