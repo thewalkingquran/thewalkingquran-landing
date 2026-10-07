@@ -1,0 +1,1 @@
+<template><h1>Hosting Advisor Nuxt test PASS</h1></template>
