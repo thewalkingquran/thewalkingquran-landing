@@ -1,0 +1,1 @@
+const fastify=require('fastify')({logger:true});fastify.get('/',async()=>'<h1>Hosting Advisor Fastify test PASS</h1>');fastify.listen({port:Number(process.env.PORT||3000),host:'0.0.0.0'}).catch(e=>{fastify.log.error(e);process.exit(1)});
