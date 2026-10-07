@@ -1,0 +1,1 @@
+export default function Page(){return <h1>Hosting Advisor Next.js test PASS</h1>}
